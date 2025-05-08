@@ -1,6 +1,6 @@
 # MP Religion & Assisted Dying Dashboard
 
-This dashboard presents insights into the religious affiliations and Assisted Dying voting patterns of UK Members of Parliament (MPs).
+This dashboard presents insights into the religious affiliations and Assisted Dying voting patterns of UK Members of Parliament (MPs). It can be found here: [https://davidjeffery.shinyapps.io/mp-religion/]( https://davidjeffery.shinyapps.io/mp-religion/).
 
 ## 📊 What is this dashboard?
 
@@ -9,6 +9,8 @@ This dashboard presents insights into the religious affiliations and Assisted Dy
 ## 📂 Where does the data come from?
 
 The data is compiled from publicly available parliamentary records and voting data. You can download it directly from the link in the header or view it in the **Raw Data** tab of the dashboard.
+
+**Please cite all uses of the data.** Jeffery, D. (2025). UK MP Religion database (0.9) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15363119
 
 ## 🙏 How is religion determined?
 
